@@ -8,7 +8,7 @@
 
 ## 발행
 
-GitHub Pages: main / (root), Jekyll. 매일 09:13 Asia/Seoul 예약 작업에서 조사·중복 검사·글 작성·커밋을 수행합니다. GitHub Pages 빌드 시간 때문에 공개 시각은 시작 시각보다 늦을 수 있습니다.
+GitHub Pages: main / (root), Jekyll. 2026-11-04 사용자 요청으로 첫 글 게시와 예약 발행을 취소했습니다. 현재 게시글과 예약 작업은 없으며 사이트 기본 틀만 유지합니다. 사용자가 발행 재개를 명시적으로 요청하기 전에는 글을 게시하거나 예약을 만들지 않습니다.
 
 작업 규칙: [editorial/PUBLISHING.md](editorial/PUBLISHING.md)
 주제 원장: [editorial/topics.json](editorial/topics.json)

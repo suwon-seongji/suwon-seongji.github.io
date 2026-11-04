@@ -5,4 +5,4 @@ description: 수원 시민을 위한 휴대폰 구매 동선과 통신 생활 �
 permalink: /archive/
 ---
 <section class="page-heading"><span class="eyebrow">SUWON GUIDE</span><h1>수원 가이드 전체 글</h1><p>확인된 지역 정보로, 한 가지 질문에 한 가지 답을 담습니다.</p></section>
-<div class="post-grid">{% for post in site.posts %}<article class="post-card"><div class="card-meta"><span>{{ post.category | escape }}</span><time>{{ post.date | date: '%Y.%m.%d' }}</time></div><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2><p>{{ post.description | escape }}</p><a class="read-more" href="{{ post.url | relative_url }}">계속 읽기 →</a></article>{% endfor %}</div>
+<div class="post-grid">{% for post in site.posts %}<article class="post-card"><div class="card-meta"><span>{{ post.category | escape }}</span><time>{{ post.date | date: '%Y.%m.%d' }}</time></div><h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2><p>{{ post.description | escape }}</p><a class="read-more" href="{{ post.url | relative_url }}">계속 읽기 →</a></article>{% else %}<p>현재 공개된 글이 없습니다.</p>{% endfor %}</div>
