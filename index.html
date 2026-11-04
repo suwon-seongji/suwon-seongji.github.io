@@ -1,0 +1,14 @@
+---
+layout: default
+title: 수원 휴대폰 성지
+---
+<section class="hero">
+<div class="hero-copy"><p class="eyebrow">ALLTHATPHONE · SUWON GUIDE</p><h1>수원 휴대폰 성지,<br>가까운 곳부터<br><em>제대로 알아보세요.</em></h1><p class="hero-description">수원역에서 영통·광교까지.<br>방문 동선과 구매 준비, 일상에 필요한 통신 정보를<br class="desktop-only"> 수원 시민의 시선으로 정리합니다.</p><a class="button" href="#latest">새 가이드 읽기 <span aria-hidden="true">↓</span></a></div>
+<aside class="hero-note"><span class="small-label">구매 전, 두 가지 길</span><h2>방문할까요?<br>택배로 받을까요?</h2><div class="route"><span>01</span><div><strong>성지 매장 방문</strong><p>시세표 확인 → 카페에서 주소 문의 → 매장 방문</p></div></div><div class="route"><span>02</span><div><strong>올댓폰 직접 운영 공동구매</strong><p>택배 수령 후 개통.<br>요금제·부가서비스 강제 없이.</p></div></div><a href="{{ site.cafe_url }}">내게 맞는 구매 방법 확인 ↗</a></aside>
+</section>
+<div class="editor-note"><span>정보 확인 원칙</span><p>매장 수·위치·가격은 확인된 자료가 있을 때만 안내합니다. 아래 지역명은 생활권 안내이며 인증 매장의 소재지를 뜻하지 않습니다.</p></div>
+<section id="latest" class="latest">
+<div class="section-heading"><div><span class="eyebrow">수원에서 폰 바꾸기</span><h2>최근 가이드</h2></div><a href="{{ '/archive/' | relative_url }}">전체 글 보기 →</a></div>
+<div class="post-grid">{% for post in site.posts limit:6 %}<article class="post-card"><div class="card-meta"><span>{{ post.category | escape }}</span><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%Y.%m.%d' }}</time></div><h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3><p>{{ post.description | escape }}</p><a class="read-more" href="{{ post.url | relative_url }}" aria-label="{{ post.title | escape }} 읽기">가이드 읽기 →</a></article>{% endfor %}</div>
+</section>
+<section class="principles"><h2>올댓폰 인증 시세표의 기준</h2><p>올댓폰이 직접 인증한 현금 시세표입니다.</p><ol><li><strong>3개월 이상</strong><span>올댓폰 입점</span></li><li><strong>그 기간 문제 건 0건</strong><span>입점 기간 확인</span></li><li><strong>인터넷·제휴카드 조건 없음</strong><span>현금 시세표 기준</span></li></ol><a href="{{ '/about/' | relative_url }}">운영·정보 확인 기준 읽기 →</a></section>

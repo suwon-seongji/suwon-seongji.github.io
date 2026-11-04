@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-11-04",
+  "source": "운영자가 이 작업에서 제공한 정보",
+  "suwon_store_count": null,
+  "suwon_store_neighborhoods": [],
+  "suwon_price_examples": [],
+  "suwon_customer_characteristics": [],
+  "suwon_actual_questions": [],
+  "rules": [
+    "값이 비어 있는 항목을 0개·없음이라는 실제 현황으로 해석하지 말 것. 미확인이라는 뜻이다.",
+    "공개 허락과 확인일이 있는 자료만 추가한다.",
+    "개인정보·고객 연락처·개별 인증 정보는 공개 저장소에 기록하지 않는다."
+  ]
+}

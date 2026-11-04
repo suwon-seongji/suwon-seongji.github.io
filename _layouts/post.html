@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<article class="article">
+<nav class="breadcrumbs" aria-label="현재 위치"><a href="{{ '/' | relative_url }}">홈</a><span>›</span><a href="{{ '/archive/' | relative_url }}">수원 가이드</a></nav>
+<header class="article-header">
+<span class="eyebrow">{{ page.category | default: '수원 구매 가이드' | escape }}</span>
+<h1>{{ page.title | escape }}</h1>
+<p class="meta">올댓폰 · 발행 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y.%m.%d' }}</time>{% if page.last_modified_at %} · 확인 {{ page.last_modified_at | date: '%Y.%m.%d' }}{% endif %}</p>
+<div class="summary"><strong>먼저 읽는 결론</strong><p>{{ page.summary | escape }}</p></div>
+</header>
+<div class="prose">{{ content }}</div>
+{% if page.faq.size > 0 %}
+<section class="faq prose" aria-labelledby="faq-title"><h2 id="faq-title">자주 묻는 질문</h2>
+{% for item in page.faq %}<details><summary>{{ item.q | escape }}</summary><p>{{ item.a | escape }}</p></details>{% endfor %}
+</section>
+{% endif %}
+<section class="references prose" aria-labelledby="references-title"><h2 id="references-title">참고 자료</h2>
+<ul>{% for source in page.sources %}<li><a href="{{ source.url | escape }}">{{ source.title | escape }}</a> — {{ source.publisher | escape }}{% if source.published %}, 게시 {{ source.published | escape }}{% endif %}, 확인 {{ source.checked | escape }}{% if source.note %}<br><span class="source-note">{{ source.note | escape }}</span>{% endif %}</li>{% endfor %}</ul>
+</section>
+<aside class="article-cta"><strong>방문 전, 구매 조건부터 확인하세요.</strong><p>최신 시세표와 공동구매 안내는 올댓폰 카페에서 확인할 수 있습니다.</p><a class="button" href="{{ site.cafe_url }}">올댓폰 카페에서 확인 ↗</a><a class="text-link" href="{{ site.main_blog_url }}">기본 구매 용어는 본 블로그에서 →</a></aside>
+<p class="disclosure">이 사이트는 올댓폰이 운영합니다. 매장 정보와 판매 조건은 확인된 범위만 다루며, 실제 구매 조건은 신청·방문 전에 다시 확인하세요.</p>
+{% assign related_count = 0 %}
+<div class="related"><h2>함께 읽는 수원 가이드</h2><ul>{% for other in site.posts %}{% if other.url != page.url and related_count < 3 %}<li><a href="{{ other.url | relative_url }}">{{ other.title | escape }}</a></li>{% assign related_count = related_count | plus: 1 %}{% endif %}{% endfor %}</ul>{% if related_count == 0 %}<p>새 글은 <a href="{{ '/archive/' | relative_url }}">전체 글 목록</a>에 모입니다.</p>{% endif %}</div>
+</article>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","@id":{{ page.url | absolute_url | append: '#article' | jsonify }},"mainEntityOfPage":{{ page.url | absolute_url | jsonify }},"headline":{{ page.title | jsonify }},"description":{{ page.description | jsonify }},"abstract":{{ page.summary | jsonify }},"datePublished":{{ page.date | date_to_xmlschema | jsonify }},"dateModified":{{ page.last_modified_at | default: page.date | date_to_xmlschema | jsonify }},"inLanguage":"ko-KR","keywords":{{ page.keywords | jsonify }},"author":{"@type":"Organization","name":"올댓폰","url":"https://cafe.naver.com/cutebell"},"publisher":{"@id":"https://cafe.naver.com/cutebell#organization"},"isPartOf":{"@id":"{{ site.url }}/#website"},"citation":[{% for source in page.sources %}{{ source.url | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}]}
+</script>
+{% if page.faq.size > 0 %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for item in page.faq %}{"@type":"Question","name":{{ item.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ item.a | jsonify }}}}{% unless forloop.last %},{% endunless %}{% endfor %}]}
+</script>
+{% endif %}

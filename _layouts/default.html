@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% assign page_title = page.title | default: site.title %}
+{% assign page_description = page.description | default: site.description %}
+<title>{{ page_title | escape }}{% unless page_title == site.title %} | {{ site.title | escape }}{% endunless %}</title>
+<meta name="description" content="{{ page_description | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{{ page_title | escape }}">
+<meta property="og:description" content="{{ page_description | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#173d36">
+{% if site.naver_verification %}<meta name="naver-site-verification" content="{{ site.naver_verification | escape }}">{% endif %}
+{% if site.google_verification %}<meta name="google-site-verification" content="{{ site.google_verification | escape }}">{% endif %}
+<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/rss.xml' | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://cafe.naver.com/cutebell#organization","name":"올댓폰","url":"https://cafe.naver.com/cutebell","sameAs":["https://htglove.github.io/","https://suwon-seongji.github.io/"]},
+{"@type":"WebSite","@id":"{{ site.url }}/#website","name":{{ site.title | jsonify }},"url":{{ site.url | jsonify }},"inLanguage":"ko-KR","publisher":{"@id":"https://cafe.naver.com/cutebell#organization"}}
+]}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">본문으로 건너뛰기</a>
+<header class="site-header">
+<div class="header-inner">
+<a class="brand" href="{{ '/' | relative_url }}" aria-label="수원 휴대폰 성지 홈"><span class="brand-mark" aria-hidden="true">올</span><span>올댓폰 <small>수원 가이드</small></span></a>
+<nav aria-label="주요 메뉴"><a href="{{ '/archive/' | relative_url }}">전체 글</a><a href="{{ '/about/' | relative_url }}">운영 안내</a><a class="nav-cafe" href="{{ site.cafe_url }}">카페 바로가기 ↗</a></nav>
+</div>
+</header>
+<main id="main" class="container">{{ content }}</main>
+<footer class="site-footer"><div class="container">
+<strong>덜 헤매고, 더 아끼고. 올댓폰.</strong>
+<p>수원 시민을 위한 휴대폰 구매·통신 생활 정보 · 운영: 올댓폰</p>
+<div class="footer-links"><a href="{{ site.main_blog_url }}">올댓폰 본 블로그</a><a href="{{ site.cafe_url }}">올댓폰 네이버 카페</a><a href="{{ '/rss.xml' | relative_url }}">RSS</a><a href="{{ '/sitemap.xml' | relative_url }}">사이트맵</a><a href="{{ '/llms.txt' | relative_url }}">문서 안내</a></div>
+</div></footer>
+</body>
+</html>
