@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "date": "2026-11-05",
+    "weekday": "목",
+    "track": "keyword",
+    "topic_id": "SW42",
+    "title": "수원 갤럭시 S26 가격 오른 뒤 싸게 사는 법",
+    "url": "https://suwon-seongji.github.io/guide/suwon-galaxy-buy/",
+    "primary_keyword": "수원 갤럭시 S26",
+    "secondary_keyword": "수원 갤럭시 S26 가격",
+    "reason": "목요일 키워드 트랙. 당일 검색에서 2026-10-01 갤럭시 S26 시리즈 출고가 인상(복수 보도)이 최근 가장 큰 구매 변수로 확인돼 기존 후보 SW42에 시의성 각도로 적용. 새 후보 추가 불필요.",
+    "heads_read": {
+      "htglove/htglove.github.io": "17c8e4882385d9cd2c1b46ca4002f5cf2de53ccc",
+      "suwon-seongji/suwon-seongji.github.io": "4ed38782e96db0d09a464c2051e9388a4610b422"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 5,
+      "suwon-seongji/suwon-seongji.github.io": 0
+    },
+    "evidence": [
+      "이투데이·데일리한국·아이뉴스24 2026-10-01 출고가 인상 보도",
+      "더팩트 2026-08-27 S26 FE 출고가",
+      "삼성닷컴 수원 삼성스토어 4곳 매장 정보(2026-11-05 확인)"
+    ],
+    "duplicate_review": "본 블로그 5개 글과 비교: 출고가 인상·FE 간격·수원 삼성스토어 실물 확인은 기존 글에 없음. 지원금 vs 선택약정·현금가/할부원금 일반 설명은 본 블로그 링크로 처리. validate.py 통과."
+  }
+]
