@@ -41,7 +41,7 @@
   - 발행 당일 최신 아이폰 모델·출고가·지원금을 공식 자료로 확인. 수원에서 방문/공동구매 선택 기준
 - [x] SW42 수원 갤럭시 싸게 사는 법 (suwon-galaxy-buy) — 2026-11-05 발행: https://suwon-seongji.github.io/guide/suwon-galaxy-buy/
   - 발행 당일 최신 갤럭시 플래그십 출고가·지원금 확인. 수원 구매 경로
-- [ ] SW43 수원 폴더블폰 바꾸기 전 확인 (suwon-foldable-buy) — 공식 자료 조사 필요
+- [x] SW43 수원 폴더블폰 바꾸기 전 확인 (suwon-foldable-buy) — 2026-11-06 발행: https://suwon-seongji.github.io/guide/suwon-foldable-buy/
   - 최신 폴더블 모델 공식 사양·가격 확인, 수원에서 실물 확인 경로(제조사 공식 체험 매장 위치는 공식 자료로)
 - [ ] SW44 수원 자급제폰 개통하는 법 (suwon-unlocked-phone) — 공식 자료 조사 필요
   - 자급제 구매 후 유심/eSIM 개통 절차, 수원에서 유심 구하는 경로

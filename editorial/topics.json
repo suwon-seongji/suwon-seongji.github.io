@@ -176,9 +176,10 @@
     "title": "수원 폴더블폰 바꾸기 전 확인",
     "slug": "suwon-foldable-buy",
     "requirement": "최신 폴더블 모델 공식 사양·가격 확인, 수원에서 실물 확인 경로(제조사 공식 체험 매장 위치는 공식 자료로)",
-    "status": "research",
-    "published_url": null,
-    "published_date": null
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-foldable-buy/",
+    "published_date": "2026-11-06",
+    "published_title": "수원 폴더블폰 비교 전 화면부터 보세요"
   },
   {
     "id": "SW44",
