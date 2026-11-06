@@ -50,5 +50,31 @@
    "삼성전자서비스 수원센터 페이지(2026-11-06 확인)"
   ],
   "duplicate_review": "본 블로그 6개·수원 1개 글과 비교: 폴더블 기종 비교·듀오 화면 결함 교체 절차·받은 날 화면 점검은 기존 글에 없음. 수원 삼성스토어 표는 반복하지 않고 SW42 글로 링크, 지원금 vs 선택약정·현금가/할부원금은 본 블로그 링크로 처리. 성지 트랙 대표 글은 아직 없어 링크 생략."
+ },
+ {
+  "date": "2026-11-07",
+  "weekday": "토",
+  "track": "seongji",
+  "topic_id": "SW36",
+  "title": "수원 휴대폰 성지 주말 개통 시간부터 확인",
+  "url": "https://suwon-seongji.github.io/guide/suwon-seongji-weekend-visit/",
+  "primary_keyword": "수원 휴대폰 성지 주말",
+  "secondary_keyword": "수원 휴대폰 성지 주말 개통",
+  "reason": "토요일 성지 트랙. 성지 후보 중 SW31·SW34는 본 블로그 성지 뜻·시세표·피해 예방 글과 비교 축이 겹치고, SW35는 본 블로그 예정 주제(번호이동 vs 기기변경)와 가까워 보류. 발행일이 토요일이라 주말 개통 시간(SW36)이 시의성이 크고 SKT·KT 공식 온라인샵 안내로 근거 확보 가능해 선택. 성지 트랙 첫 글로 대표 글 역할.",
+  "heads_read": {
+   "htglove/htglove.github.io": "52af2af7bfaee4294eaba47ac27c057cf00ad7a3",
+   "suwon-seongji/suwon-seongji.github.io": "cdb33fedaf37f907a77e3de629ae39bdb7374a64"
+  },
+  "existing_posts": {
+   "htglove/htglove.github.io": 7,
+   "suwon-seongji/suwon-seongji.github.io": 2
+  },
+  "evidence": [
+   "SK텔레콤 T 다이렉트샵 개통 가능 시간 FAQ(2026-11-07 확인)",
+   "KT 본사직영 온라인샵 셀프개통 안내(2026-11-07 확인)",
+   "동행미디어 시대 2026-01-06 일요일 전산 휴무분 월요일 처리 지연 보도",
+   "삼성전자서비스 수원센터 페이지(2026-11-07 확인)"
+  ],
+  "duplicate_review": "본 블로그 7개·수원 2개 글과 비교: 요일별 개통 가능 시간·일요일 접수 후 월요일 개통·통신사별 공휴일 기준·주말 A/S 공백은 기존 글에 없음. 현금가/할부원금·피해 예방은 본 블로그 링크, 삼성스토어 영업시간·폴더블 점검은 수원 기존 글 링크로 처리. LG유플러스 공식 안내는 열지 못해 제외."
  }
 ]

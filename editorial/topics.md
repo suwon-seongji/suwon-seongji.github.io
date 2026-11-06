@@ -17,7 +17,7 @@
   - 개통 후 받은 가입신청서·할부 내역에서 확인할 항목과 이상 시 공식 상담 창구. 본 블로그 피해 유형 글과 중복 금지
 - [ ] SW35 수원 휴대폰 성지 번호이동 상담 받을 때 (suwon-seongji-porting-visit) — 공식 자료 조사 필요
   - 번호이동 방문 상담 시 확인할 절차·시간대·해지 위약금 확인 경로. 공식 자료 기준
-- [ ] SW36 수원 휴대폰 성지 주말 방문 전 확인 (suwon-seongji-weekend-visit) — 공식 자료 조사 필요
+- [x] SW36 수원 휴대폰 성지 주말 방문 전 확인 (suwon-seongji-weekend-visit) — 2026-11-07 발행: https://suwon-seongji.github.io/guide/suwon-seongji-weekend-visit/
   - 주말·공휴일 개통 가능 여부, 전산 시간 등 공식 안내 확인. 매장별 영업시간은 자료 없으면 단정 금지
 - [ ] SW21 수원 인증 매장 생활권별 확인 자료 (suwon-certified-areas) — 현지 자료 필요
   - 운영자가 제공한 실제 인증 매장 수·동네·확인일 필요

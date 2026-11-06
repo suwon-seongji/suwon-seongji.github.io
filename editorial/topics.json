@@ -65,9 +65,10 @@
     "title": "수원 휴대폰 성지 주말 방문 전 확인",
     "slug": "suwon-seongji-weekend-visit",
     "requirement": "주말·공휴일 개통 가능 여부, 전산 시간 등 공식 안내 확인. 매장별 영업시간은 자료 없으면 단정 금지",
-    "status": "research",
-    "published_url": null,
-    "published_date": null
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-seongji-weekend-visit/",
+    "published_date": "2026-11-07",
+    "published_title": "수원 휴대폰 성지 주말 개통 시간부터 확인"
   },
   {
     "id": "SW21",
