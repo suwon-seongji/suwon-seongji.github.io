@@ -37,7 +37,7 @@
   - 새롭게 확인된 수원 인증 매장 변경 자료와 기준일 필요; SW21 반복 금지
 
 ## 휴대폰 키워드 글 (주 5일: 월·화·목·금·일)
-- [ ] SW41 수원 아이폰 싸게 사는 법 (suwon-iphone-buy) — 공식 자료 조사 필요
+- [x] SW41 수원 아이폰 싸게 사는 법 (suwon-iphone-buy) — 2026-11-09 발행: https://suwon-seongji.github.io/guide/suwon-iphone-buy/
   - 발행 당일 최신 아이폰 모델·출고가·지원금을 공식 자료로 확인. 수원에서 방문/공동구매 선택 기준
 - [x] SW42 수원 갤럭시 싸게 사는 법 (suwon-galaxy-buy) — 2026-11-05 발행: https://suwon-seongji.github.io/guide/suwon-galaxy-buy/
   - 발행 당일 최신 갤럭시 플래그십 출고가·지원금 확인. 수원 구매 경로
