@@ -132,5 +132,32 @@
    "아이스토어 매장 안내·롯데백화점 타임빌라스 수원 매장 검색(2026-11-09 확인)"
   ],
   "duplicate_review": "본 블로그 9개·수원 4개 글과 비교: 프로·프로 맥스 지원금 격차 계산, 아이폰 17 가격 인상, 수원 애플 매장 실물 확인은 기존 글에 없음. 선택약정 공식·현금가/할부원금·가입 유형은 본 블로그 링크, 듀오는 폴더블 글, 수리 창구는 수리 글 링크로 처리. validate.py 통과. 아이폰 17 최신 지원금, 애플 직영 수원 매장은 확인 못 해 본문에 명시."
+ },
+ {
+  "date": "2026-11-10",
+  "weekday": "화",
+  "track": "keyword",
+  "topic_id": "SW45",
+  "title": "수원 알뜰폰 개통 창구 고르는 법",
+  "url": "https://suwon-seongji.github.io/guide/suwon-mvno-activate/",
+  "primary_keyword": "수원 알뜰폰",
+  "secondary_keyword": "수원 알뜰폰 개통",
+  "reason": "화요일 키워드 트랙. 당일 검색에서 새 출시·사전예약은 없었고 11월 알뜰폰 프로모션(우리WON모바일)이 확인돼 기존 후보 SW45에 적용. 수능 후 수험생 이슈는 11월 19일 이후가 더 적합해 보류. 새 후보 추가 불필요.",
+  "heads_read": {
+   "htglove/htglove.github.io": "77ec46fe01bad0a21afbd31f96ea0df5e95deb82",
+   "suwon-seongji/suwon-seongji.github.io": "18c37f91af5e5bea52e8b8adc67a2e5f8e592fd8"
+  },
+  "existing_posts": {
+   "htglove/htglove.github.io": 10,
+   "suwon-seongji/suwon-seongji.github.io": 5
+  },
+  "evidence": [
+   "수원우체국 누리집(2026-11-10 확인)",
+   "KT엠모바일 유심 구매·개통 가이드·셀프개통·eSIM·FAQ",
+   "U+유모바일 셀프개통·eSIM 안내",
+   "글로벌이코노믹 2026-11-09 우리WON모바일 이벤트(단일 보도)",
+   "모요 운영자 답변 2026-09-16(우체국 준비물·시간 참고, 비공식)"
+  ],
+  "duplicate_review": "본 블로그 10개·수원 5개 글과 비교: 알뜰폰 개통 창구·수원우체국·유심 구매처·셀프개통 시간은 기존 글에 없음. 일요일 번호이동 제한은 주말 글로, 지원금·구매처는 본 블로그 링크로 처리. validate.py 통과(최고 문단 유사도 0.205). 미확인 표시: 수원우체국 알뜰폰 상담 시간(이미지), 동수원·서수원 취급 여부, 우체국 취급 사업자(epost 페이지 열람 불가)."
  }
 ]

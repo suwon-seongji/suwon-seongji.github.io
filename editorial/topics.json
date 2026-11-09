@@ -198,9 +198,9 @@
     "title": "수원 알뜰폰 개통 바로 하기",
     "slug": "suwon-mvno-activate",
     "requirement": "알뜰폰 셀프개통·eSIM 절차 공식 안내, 수원 오프라인 접수 가능 경로 확인. 본 블로그 알뜰폰 장단점 글과 중복 금지",
-    "status": "research",
-    "published_url": null,
-    "published_date": null
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-mvno-activate/",
+    "published_date": "2026-11-10"
   },
   {
     "id": "SW46",
