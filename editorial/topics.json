@@ -345,12 +345,12 @@
   },
   {
     "id": "SW11",
-    "title": "수원 폐휴대폰 수거처 확인",
+    "title": "수원 폐휴대폰 수거, 서랍 속 폰 보내는 세 갈래",
     "slug": "suwon-phone-recycling",
     "requirement": "수원시·수거기관의 현재 접수 장소와 수거 대상 확인; 초기화 일반론 금지",
-    "status": "research",
-    "published_url": null,
-    "published_date": null,
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-phone-recycling/",
+    "published_date": "2026-11-12",
     "track": "keyword"
   },
   {
