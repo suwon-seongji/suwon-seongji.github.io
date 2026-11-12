@@ -1,222 +1,248 @@
 [
- {
-  "date": "2026-11-05",
-  "weekday": "목",
-  "track": "keyword",
-  "topic_id": "SW42",
-  "title": "수원 갤럭시 S26 가격 오른 뒤 싸게 사는 법",
-  "url": "https://suwon-seongji.github.io/guide/suwon-galaxy-buy/",
-  "primary_keyword": "수원 갤럭시 S26",
-  "secondary_keyword": "수원 갤럭시 S26 가격",
-  "reason": "목요일 키워드 트랙. 당일 검색에서 2026-10-01 갤럭시 S26 시리즈 출고가 인상(복수 보도)이 최근 가장 큰 구매 변수로 확인돼 기존 후보 SW42에 시의성 각도로 적용. 새 후보 추가 불필요.",
-  "heads_read": {
-   "htglove/htglove.github.io": "17c8e4882385d9cd2c1b46ca4002f5cf2de53ccc",
-   "suwon-seongji/suwon-seongji.github.io": "4ed38782e96db0d09a464c2051e9388a4610b422"
+  {
+    "date": "2026-11-05",
+    "weekday": "목",
+    "track": "keyword",
+    "topic_id": "SW42",
+    "title": "수원 갤럭시 S26 가격 오른 뒤 싸게 사는 법",
+    "url": "https://suwon-seongji.github.io/guide/suwon-galaxy-buy/",
+    "primary_keyword": "수원 갤럭시 S26",
+    "secondary_keyword": "수원 갤럭시 S26 가격",
+    "reason": "목요일 키워드 트랙. 당일 검색에서 2026-10-01 갤럭시 S26 시리즈 출고가 인상(복수 보도)이 최근 가장 큰 구매 변수로 확인돼 기존 후보 SW42에 시의성 각도로 적용. 새 후보 추가 불필요.",
+    "heads_read": {
+      "htglove/htglove.github.io": "17c8e4882385d9cd2c1b46ca4002f5cf2de53ccc",
+      "suwon-seongji/suwon-seongji.github.io": "4ed38782e96db0d09a464c2051e9388a4610b422"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 5,
+      "suwon-seongji/suwon-seongji.github.io": 0
+    },
+    "evidence": [
+      "이투데이·데일리한국·아이뉴스24 2026-10-01 출고가 인상 보도",
+      "더팩트 2026-08-27 S26 FE 출고가",
+      "삼성닷컴 수원 삼성스토어 4곳 매장 정보(2026-11-05 확인)"
+    ],
+    "duplicate_review": "본 블로그 5개 글과 비교: 출고가 인상·FE 간격·수원 삼성스토어 실물 확인은 기존 글에 없음. 지원금 vs 선택약정·현금가/할부원금 일반 설명은 본 블로그 링크로 처리. validate.py 통과."
   },
-  "existing_posts": {
-   "htglove/htglove.github.io": 5,
-   "suwon-seongji/suwon-seongji.github.io": 0
+  {
+    "date": "2026-11-06",
+    "weekday": "금",
+    "track": "keyword",
+    "topic_id": "SW43",
+    "title": "수원 폴더블폰 비교 전 화면부터 보세요",
+    "url": "https://suwon-seongji.github.io/guide/suwon-foldable-buy/",
+    "primary_keyword": "수원 폴더블폰",
+    "secondary_keyword": "수원 폴더블폰 비교",
+    "reason": "금요일 키워드 트랙. 당일 검색에서 아이폰 듀오(10-23 출시) 내부 화면 결함 인정·무상 교체(10-26~28 보도)와 폴드8 판매 증가·공통지원금 상향(11-03 보도)이 최근 가장 큰 폴더블 구매 변수로 확인돼 기존 후보 SW43에 시의성 각도로 적용. 새 후보 추가 불필요.",
+    "heads_read": {
+      "htglove/htglove.github.io": "7b5735ad7f7d5208c297caf630293bc2f810c93e",
+      "suwon-seongji/suwon-seongji.github.io": "4e94d6a4b8c6c4e6d1a9a50b782f618cd1c5cfe6"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 6,
+      "suwon-seongji/suwon-seongji.github.io": 1
+    },
+    "evidence": [
+      "데일리안 2026-10-16 아이폰 듀오 공통지원금",
+      "경향신문 2026-10-27·연합뉴스 2026-10-28 듀오 화면 결함·교체 절차",
+      "서울경제·머니투데이 2026-11-03",
+      "SBS Biz·YTN 2026-07-27 폴드8 시리즈 출고가",
+      "삼성전자서비스 수원센터 페이지(2026-11-06 확인)"
+    ],
+    "duplicate_review": "본 블로그 6개·수원 1개 글과 비교: 폴더블 기종 비교·듀오 화면 결함 교체 절차·받은 날 화면 점검은 기존 글에 없음. 수원 삼성스토어 표는 반복하지 않고 SW42 글로 링크, 지원금 vs 선택약정·현금가/할부원금은 본 블로그 링크로 처리. 성지 트랙 대표 글은 아직 없어 링크 생략."
   },
-  "evidence": [
-   "이투데이·데일리한국·아이뉴스24 2026-10-01 출고가 인상 보도",
-   "더팩트 2026-08-27 S26 FE 출고가",
-   "삼성닷컴 수원 삼성스토어 4곳 매장 정보(2026-11-05 확인)"
-  ],
-  "duplicate_review": "본 블로그 5개 글과 비교: 출고가 인상·FE 간격·수원 삼성스토어 실물 확인은 기존 글에 없음. 지원금 vs 선택약정·현금가/할부원금 일반 설명은 본 블로그 링크로 처리. validate.py 통과."
- },
- {
-  "date": "2026-11-06",
-  "weekday": "금",
-  "track": "keyword",
-  "topic_id": "SW43",
-  "title": "수원 폴더블폰 비교 전 화면부터 보세요",
-  "url": "https://suwon-seongji.github.io/guide/suwon-foldable-buy/",
-  "primary_keyword": "수원 폴더블폰",
-  "secondary_keyword": "수원 폴더블폰 비교",
-  "reason": "금요일 키워드 트랙. 당일 검색에서 아이폰 듀오(10-23 출시) 내부 화면 결함 인정·무상 교체(10-26~28 보도)와 폴드8 판매 증가·공통지원금 상향(11-03 보도)이 최근 가장 큰 폴더블 구매 변수로 확인돼 기존 후보 SW43에 시의성 각도로 적용. 새 후보 추가 불필요.",
-  "heads_read": {
-   "htglove/htglove.github.io": "7b5735ad7f7d5208c297caf630293bc2f810c93e",
-   "suwon-seongji/suwon-seongji.github.io": "4e94d6a4b8c6c4e6d1a9a50b782f618cd1c5cfe6"
+  {
+    "date": "2026-11-07",
+    "weekday": "토",
+    "track": "seongji",
+    "topic_id": "SW36",
+    "title": "수원 휴대폰 성지 주말 개통 시간부터 확인",
+    "url": "https://suwon-seongji.github.io/guide/suwon-seongji-weekend-visit/",
+    "primary_keyword": "수원 휴대폰 성지 주말",
+    "secondary_keyword": "수원 휴대폰 성지 주말 개통",
+    "reason": "토요일 성지 트랙. 성지 후보 중 SW31·SW34는 본 블로그 성지 뜻·시세표·피해 예방 글과 비교 축이 겹치고, SW35는 본 블로그 예정 주제(번호이동 vs 기기변경)와 가까워 보류. 발행일이 토요일이라 주말 개통 시간(SW36)이 시의성이 크고 SKT·KT 공식 온라인샵 안내로 근거 확보 가능해 선택. 성지 트랙 첫 글로 대표 글 역할.",
+    "heads_read": {
+      "htglove/htglove.github.io": "52af2af7bfaee4294eaba47ac27c057cf00ad7a3",
+      "suwon-seongji/suwon-seongji.github.io": "cdb33fedaf37f907a77e3de629ae39bdb7374a64"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 7,
+      "suwon-seongji/suwon-seongji.github.io": 2
+    },
+    "evidence": [
+      "SK텔레콤 T 다이렉트샵 개통 가능 시간 FAQ(2026-11-07 확인)",
+      "KT 본사직영 온라인샵 셀프개통 안내(2026-11-07 확인)",
+      "동행미디어 시대 2026-01-06 일요일 전산 휴무분 월요일 처리 지연 보도",
+      "삼성전자서비스 수원센터 페이지(2026-11-07 확인)"
+    ],
+    "duplicate_review": "본 블로그 7개·수원 2개 글과 비교: 요일별 개통 가능 시간·일요일 접수 후 월요일 개통·통신사별 공휴일 기준·주말 A/S 공백은 기존 글에 없음. 현금가/할부원금·피해 예방은 본 블로그 링크, 삼성스토어 영업시간·폴더블 점검은 수원 기존 글 링크로 처리. LG유플러스 공식 안내는 열지 못해 제외."
   },
-  "existing_posts": {
-   "htglove/htglove.github.io": 6,
-   "suwon-seongji/suwon-seongji.github.io": 1
+  {
+    "date": "2026-11-08",
+    "weekday": "일",
+    "track": "keyword",
+    "topic_id": "SW48",
+    "title": "수원 휴대폰 수리 센터 기종별로 고르기",
+    "url": "https://suwon-seongji.github.io/guide/suwon-phone-repair/",
+    "primary_keyword": "수원 휴대폰 수리",
+    "secondary_keyword": "수원 휴대폰 수리 센터",
+    "reason": "일요일 키워드 트랙. 당일 검색에서 신제품 출시·사전예약 같은 새 이슈는 찾지 못했고(아이폰18 프로 9-18 출시·듀오 10-23 출시는 기존 폴더블 글에서 다룸), 기존 후보 중 공식 자료가 충분한 SW48 선택. 일요일 발행이라 삼성 센터 휴무 대비 아이폰 공인 센터 일요일 예약제 운영이 실용 정보. 새 후보 추가 불필요.",
+    "heads_read": {
+      "htglove/htglove.github.io": "721a594cfeeef8f77038b4f9dad0e49d854916d4",
+      "suwon-seongji/suwon-seongji.github.io": "e9b0a42346b4ef6b13d959695588e183802c68cb"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 8,
+      "suwon-seongji/suwon-seongji.github.io": 3
+    },
+    "evidence": [
+      "삼성전자서비스 북수원센터 페이지(2026-11-08 확인)",
+      "삼성전자 뉴스룸 2025-10-13 바로 서비스 시범 도입(갤러리아 광교 포함)",
+      "헤럴드경제 2026-05-18 바로 서비스 확대",
+      "TUVA 수원 광교센터 위치 안내(2026-11-08 확인)",
+      "삼성전자 뉴스룸 2022-07-28 수리 모드",
+      "Apple 서비스 약관(한국어)"
+    ],
+    "duplicate_review": "본 블로그 8개·수원 3개 글과 비교: 수원 수리 창구(북수원센터·바로 서비스·TUVA 광교)·일요일 예약제·수리 모드·수리 대신 교체 판단은 기존 글에 없음. 수원센터 운영시간은 기존 성지 글 링크로 처리(오늘 삼성 센터 페이지 일부 서버 오류로 재확인 못 함, 본문에 명시). 듀오 교체 절차는 폴더블 글 링크, 현금가/할부원금은 본 블로그 링크. 아이폰 출고가·지원금은 다루지 않음."
   },
-  "evidence": [
-   "데일리안 2026-10-16 아이폰 듀오 공통지원금",
-   "경향신문 2026-10-27·연합뉴스 2026-10-28 듀오 화면 결함·교체 절차",
-   "서울경제·머니투데이 2026-11-03",
-   "SBS Biz·YTN 2026-07-27 폴드8 시리즈 출고가",
-   "삼성전자서비스 수원센터 페이지(2026-11-06 확인)"
-  ],
-  "duplicate_review": "본 블로그 6개·수원 1개 글과 비교: 폴더블 기종 비교·듀오 화면 결함 교체 절차·받은 날 화면 점검은 기존 글에 없음. 수원 삼성스토어 표는 반복하지 않고 SW42 글로 링크, 지원금 vs 선택약정·현금가/할부원금은 본 블로그 링크로 처리. 성지 트랙 대표 글은 아직 없어 링크 생략."
- },
- {
-  "date": "2026-11-07",
-  "weekday": "토",
-  "track": "seongji",
-  "topic_id": "SW36",
-  "title": "수원 휴대폰 성지 주말 개통 시간부터 확인",
-  "url": "https://suwon-seongji.github.io/guide/suwon-seongji-weekend-visit/",
-  "primary_keyword": "수원 휴대폰 성지 주말",
-  "secondary_keyword": "수원 휴대폰 성지 주말 개통",
-  "reason": "토요일 성지 트랙. 성지 후보 중 SW31·SW34는 본 블로그 성지 뜻·시세표·피해 예방 글과 비교 축이 겹치고, SW35는 본 블로그 예정 주제(번호이동 vs 기기변경)와 가까워 보류. 발행일이 토요일이라 주말 개통 시간(SW36)이 시의성이 크고 SKT·KT 공식 온라인샵 안내로 근거 확보 가능해 선택. 성지 트랙 첫 글로 대표 글 역할.",
-  "heads_read": {
-   "htglove/htglove.github.io": "52af2af7bfaee4294eaba47ac27c057cf00ad7a3",
-   "suwon-seongji/suwon-seongji.github.io": "cdb33fedaf37f907a77e3de629ae39bdb7374a64"
+  {
+    "date": "2026-11-09",
+    "weekday": "월",
+    "track": "keyword",
+    "topic_id": "SW41",
+    "title": "수원 아이폰 18 프로 지원금 따져 사는 법",
+    "url": "https://suwon-seongji.github.io/guide/suwon-iphone-buy/",
+    "primary_keyword": "수원 아이폰",
+    "secondary_keyword": "수원 아이폰 18 프로 지원금",
+    "reason": "월요일 키워드 트랙. 당일 검색에서 새 출시·사전예약 이슈는 없었고, 9월 출시 아이폰 18 프로·프로 맥스 지원금 격차와 9월 아이폰 17 가격 인상, 11월 초 애플의 메모리 비용 발언이 아이폰 구매 변수로 확인돼 기존 후보 SW41에 적용. 새 후보 추가 불필요.",
+    "heads_read": {
+      "htglove/htglove.github.io": "e1f9be8da416cee2a810a9a487420df39d92c93c",
+      "suwon-seongji/suwon-seongji.github.io": "2d7cb96c5df575f6b2b80b8809e47bc90140ce43"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 9,
+      "suwon-seongji/suwon-seongji.github.io": 4
+    },
+    "evidence": [
+      "아이뉴스24·뉴시스 2026-09-18 통신 3사 공통지원금",
+      "디지털데일리 2026-09-10 아이폰 18 프로 가격",
+      "뉴스토마토 2026-09-14 통신사 출고가·선택약정 계산",
+      "뉴스웨이 2026-09-30·머니투데이 2026-09-10 아이폰 17 가격 인상",
+      "서울경제 2026-11-03 애플 메모리 비용 발언",
+      "아이스토어 매장 안내·롯데백화점 타임빌라스 수원 매장 검색(2026-11-09 확인)"
+    ],
+    "duplicate_review": "본 블로그 9개·수원 4개 글과 비교: 프로·프로 맥스 지원금 격차 계산, 아이폰 17 가격 인상, 수원 애플 매장 실물 확인은 기존 글에 없음. 선택약정 공식·현금가/할부원금·가입 유형은 본 블로그 링크, 듀오는 폴더블 글, 수리 창구는 수리 글 링크로 처리. validate.py 통과. 아이폰 17 최신 지원금, 애플 직영 수원 매장은 확인 못 해 본문에 명시."
   },
-  "existing_posts": {
-   "htglove/htglove.github.io": 7,
-   "suwon-seongji/suwon-seongji.github.io": 2
+  {
+    "date": "2026-11-10",
+    "weekday": "화",
+    "track": "keyword",
+    "topic_id": "SW45",
+    "title": "수원 알뜰폰 개통 창구 고르는 법",
+    "url": "https://suwon-seongji.github.io/guide/suwon-mvno-activate/",
+    "primary_keyword": "수원 알뜰폰",
+    "secondary_keyword": "수원 알뜰폰 개통",
+    "reason": "화요일 키워드 트랙. 당일 검색에서 새 출시·사전예약은 없었고 11월 알뜰폰 프로모션(우리WON모바일)이 확인돼 기존 후보 SW45에 적용. 수능 후 수험생 이슈는 11월 19일 이후가 더 적합해 보류. 새 후보 추가 불필요.",
+    "heads_read": {
+      "htglove/htglove.github.io": "77ec46fe01bad0a21afbd31f96ea0df5e95deb82",
+      "suwon-seongji/suwon-seongji.github.io": "18c37f91af5e5bea52e8b8adc67a2e5f8e592fd8"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 10,
+      "suwon-seongji/suwon-seongji.github.io": 5
+    },
+    "evidence": [
+      "수원우체국 누리집(2026-11-10 확인)",
+      "KT엠모바일 유심 구매·개통 가이드·셀프개통·eSIM·FAQ",
+      "U+유모바일 셀프개통·eSIM 안내",
+      "글로벌이코노믹 2026-11-09 우리WON모바일 이벤트(단일 보도)",
+      "모요 운영자 답변 2026-09-16(우체국 준비물·시간 참고, 비공식)"
+    ],
+    "duplicate_review": "본 블로그 10개·수원 5개 글과 비교: 알뜰폰 개통 창구·수원우체국·유심 구매처·셀프개통 시간은 기존 글에 없음. 일요일 번호이동 제한은 주말 글로, 지원금·구매처는 본 블로그 링크로 처리. validate.py 통과(최고 문단 유사도 0.205). 미확인 표시: 수원우체국 알뜰폰 상담 시간(이미지), 동수원·서수원 취급 여부, 우체국 취급 사업자(epost 페이지 열람 불가)."
   },
-  "evidence": [
-   "SK텔레콤 T 다이렉트샵 개통 가능 시간 FAQ(2026-11-07 확인)",
-   "KT 본사직영 온라인샵 셀프개통 안내(2026-11-07 확인)",
-   "동행미디어 시대 2026-01-06 일요일 전산 휴무분 월요일 처리 지연 보도",
-   "삼성전자서비스 수원센터 페이지(2026-11-07 확인)"
-  ],
-  "duplicate_review": "본 블로그 7개·수원 2개 글과 비교: 요일별 개통 가능 시간·일요일 접수 후 월요일 개통·통신사별 공휴일 기준·주말 A/S 공백은 기존 글에 없음. 현금가/할부원금·피해 예방은 본 블로그 링크, 삼성스토어 영업시간·폴더블 점검은 수원 기존 글 링크로 처리. LG유플러스 공식 안내는 열지 못해 제외."
- },
- {
-  "date": "2026-11-08",
-  "weekday": "일",
-  "track": "keyword",
-  "topic_id": "SW48",
-  "title": "수원 휴대폰 수리 센터 기종별로 고르기",
-  "url": "https://suwon-seongji.github.io/guide/suwon-phone-repair/",
-  "primary_keyword": "수원 휴대폰 수리",
-  "secondary_keyword": "수원 휴대폰 수리 센터",
-  "reason": "일요일 키워드 트랙. 당일 검색에서 신제품 출시·사전예약 같은 새 이슈는 찾지 못했고(아이폰18 프로 9-18 출시·듀오 10-23 출시는 기존 폴더블 글에서 다룸), 기존 후보 중 공식 자료가 충분한 SW48 선택. 일요일 발행이라 삼성 센터 휴무 대비 아이폰 공인 센터 일요일 예약제 운영이 실용 정보. 새 후보 추가 불필요.",
-  "heads_read": {
-   "htglove/htglove.github.io": "721a594cfeeef8f77038b4f9dad0e49d854916d4",
-   "suwon-seongji/suwon-seongji.github.io": "e9b0a42346b4ef6b13d959695588e183802c68cb"
+  {
+    "date": "2026-11-11",
+    "weekday": "수",
+    "track": "seongji",
+    "topic_id": "SW33",
+    "title": "수원 휴대폰 성지 방문 준비물, 신분증 하나로는 부족",
+    "url": "https://suwon-seongji.github.io/guide/suwon-seongji-visit-items/",
+    "primary_keyword": "수원 휴대폰 성지 방문 준비물",
+    "secondary_keyword": "수원 휴대폰 성지 방문",
+    "reason": "수요일 성지 트랙. 남은 seongji 후보 중 SW33은 2026-07-06 시행 개통 본인확인 강화(안면인증·모바일 신분증·당일 초본)라는 공개 자료가 충분하고 두 저장소 어디에도 다룬 적 없음. SW31·SW35는 본 블로그 시세표·번호이동 글과 축이 겹칠 위험, SW34는 피해·분쟁조정 글과 인접, SW01·SW32는 수원 교통 공식 자료 조사가 더 필요해 보류.",
+    "heads_read": {
+      "htglove/htglove.github.io": "0a26807",
+      "suwon-seongji/suwon-seongji.github.io": "63cf896"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 11,
+      "suwon-seongji/suwon-seongji.github.io": 6
+    },
+    "evidence": [
+      "뉴시스 2026-06-30 과기정통부 브리핑 보도",
+      "아이뉴스24 2026-06-30",
+      "데일리안 2026-07-07 매장 르포",
+      "SBS Biz 2026-09-03",
+      "정책브리핑(행정안전부) 2025-02-10 모바일 주민등록증",
+      "아시아경제 2025-06-30 수원 24시간 무인민원발급기",
+      "SK텔레콤 T world 이용계약증명서 FAQ"
+    ],
+    "duplicate_review": "본 블로그 11개·수원 6개 글과 제목·소제목·문단 직접 비교: 개통 본인확인 강화(안면인증·모바일 신분증·당일 초본), 수원 행정복지센터 모바일 주민등록증, 수원 24시간 무인민원발급기, 가족 명의 준비물은 기존 글에 없음. 주말 시간은 SW36 링크, 가입 유형·현금가는 본 블로그 링크로 처리. validate.py 통과(최고 문단 유사도 0.185, 올댓폰 안내 문단은 재작성).",
+    "unverified": "수원시 공식 누리집·공공데이터 무인민원발급기 목록은 이 세션에서 열람 불가(아시아경제 단일 보도 사용). 9월 이후 추가 대체 인증수단 확정 여부 미확인. 통신사 공식 가입 구비서류(미성년·대리) 페이지 미확인이라 매장 확인으로 안내."
   },
-  "existing_posts": {
-   "htglove/htglove.github.io": 8,
-   "suwon-seongji/suwon-seongji.github.io": 3
+  {
+    "date": "2026-11-12",
+    "weekday": "목",
+    "track": "keyword",
+    "topic_id": "SW11",
+    "title": "수원 폐휴대폰 수거, 서랍 속 폰 보내는 세 갈래",
+    "url": "https://suwon-seongji.github.io/guide/suwon-phone-recycling/",
+    "primary_keyword": "수원 폐휴대폰",
+    "secondary_keyword": "수원 폐휴대폰 수거",
+    "reason": "목요일 키워드 트랙. 당일 검색에서 신제품 출시·사전예약 등 새 시의성 이슈는 없었고(요금제 유지기간 종료 알림은 2027년 1분기 검토 단계), 아이폰18·듀오·폴드8 교체 이후 남는 폐휴대폰 처리와 9월 정부 회수 캠페인·우체국 방문수거 연내 도입 계획이 시의성 있음. SW11은 수원시 공식 무상방문수거 안내(2026-07-07 수정)와 영통2동 수거함 사례로 수원 자료 확보. SW50 할부는 본 블로그 성지 뜻 글과 중복, SW10 유실물은 공식 수원역 유실물센터 자료 열람 불가, SW46·SW09는 수원 교육 현행 모집 자료 부족, SW44·SW53은 알뜰폰 글과 인접해 보류.",
+    "heads_read": {
+      "htglove/htglove.github.io": "50339f4",
+      "suwon-seongji/suwon-seongji.github.io": "622606c"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 12,
+      "suwon-seongji/suwon-seongji.github.io": 7
+    },
+    "evidence": [
+      "수원특례시 재활용분리배출(폐가전 무상방문수거) 2026-07-07 수정",
+      "환경보건신문 2026-09-01",
+      "아주경제 2026-09-01",
+      "에너지데일리 2026-09-01",
+      "SBS Biz 2026-09-01",
+      "뉴스Q·정도일보 2024-09-23 영통2동 수거함"
+    ],
+    "duplicate_review": "본 블로그 12개·수원 7개 글과 제목·소제목·문단 직접 비교: 폐휴대폰·나눔폰·소형가전 수거를 다룬 글 없음. 초기화는 3항목으로 짧게 처리. validate.py 통과(최고 문단 유사도 0.491은 운영자 지정 올댓폰 소개 문장 그대로 사용 때문, 그 외 문단은 0.25 미만).",
+    "unverified": "나눔폰 공식 누리집·수원우체국 누리집·모두비움 수거함 목록은 이 세션에서 열람 불가(보도 기준). 우체국 방문수거 실제 시작 여부 미확인. 영통2동 수거함의 휴대폰 수거 여부·현재 운영 여부 미확인으로 전화 확인 안내."
   },
-  "evidence": [
-   "삼성전자서비스 북수원센터 페이지(2026-11-08 확인)",
-   "삼성전자 뉴스룸 2025-10-13 바로 서비스 시범 도입(갤러리아 광교 포함)",
-   "헤럴드경제 2026-05-18 바로 서비스 확대",
-   "TUVA 수원 광교센터 위치 안내(2026-11-08 확인)",
-   "삼성전자 뉴스룸 2022-07-28 수리 모드",
-   "Apple 서비스 약관(한국어)"
-  ],
-  "duplicate_review": "본 블로그 8개·수원 3개 글과 비교: 수원 수리 창구(북수원센터·바로 서비스·TUVA 광교)·일요일 예약제·수리 모드·수리 대신 교체 판단은 기존 글에 없음. 수원센터 운영시간은 기존 성지 글 링크로 처리(오늘 삼성 센터 페이지 일부 서버 오류로 재확인 못 함, 본문에 명시). 듀오 교체 절차는 폴더블 글 링크, 현금가/할부원금은 본 블로그 링크. 아이폰 출고가·지원금은 다루지 않음."
- },
- {
-  "date": "2026-11-09",
-  "weekday": "월",
-  "track": "keyword",
-  "topic_id": "SW41",
-  "title": "수원 아이폰 18 프로 지원금 따져 사는 법",
-  "url": "https://suwon-seongji.github.io/guide/suwon-iphone-buy/",
-  "primary_keyword": "수원 아이폰",
-  "secondary_keyword": "수원 아이폰 18 프로 지원금",
-  "reason": "월요일 키워드 트랙. 당일 검색에서 새 출시·사전예약 이슈는 없었고, 9월 출시 아이폰 18 프로·프로 맥스 지원금 격차와 9월 아이폰 17 가격 인상, 11월 초 애플의 메모리 비용 발언이 아이폰 구매 변수로 확인돼 기존 후보 SW41에 적용. 새 후보 추가 불필요.",
-  "heads_read": {
-   "htglove/htglove.github.io": "e1f9be8da416cee2a810a9a487420df39d92c93c",
-   "suwon-seongji/suwon-seongji.github.io": "2d7cb96c5df575f6b2b80b8809e47bc90140ce43"
-  },
-  "existing_posts": {
-   "htglove/htglove.github.io": 9,
-   "suwon-seongji/suwon-seongji.github.io": 4
-  },
-  "evidence": [
-   "아이뉴스24·뉴시스 2026-09-18 통신 3사 공통지원금",
-   "디지털데일리 2026-09-10 아이폰 18 프로 가격",
-   "뉴스토마토 2026-09-14 통신사 출고가·선택약정 계산",
-   "뉴스웨이 2026-09-30·머니투데이 2026-09-10 아이폰 17 가격 인상",
-   "서울경제 2026-11-03 애플 메모리 비용 발언",
-   "아이스토어 매장 안내·롯데백화점 타임빌라스 수원 매장 검색(2026-11-09 확인)"
-  ],
-  "duplicate_review": "본 블로그 9개·수원 4개 글과 비교: 프로·프로 맥스 지원금 격차 계산, 아이폰 17 가격 인상, 수원 애플 매장 실물 확인은 기존 글에 없음. 선택약정 공식·현금가/할부원금·가입 유형은 본 블로그 링크, 듀오는 폴더블 글, 수리 창구는 수리 글 링크로 처리. validate.py 통과. 아이폰 17 최신 지원금, 애플 직영 수원 매장은 확인 못 해 본문에 명시."
- },
- {
-  "date": "2026-11-10",
-  "weekday": "화",
-  "track": "keyword",
-  "topic_id": "SW45",
-  "title": "수원 알뜰폰 개통 창구 고르는 법",
-  "url": "https://suwon-seongji.github.io/guide/suwon-mvno-activate/",
-  "primary_keyword": "수원 알뜰폰",
-  "secondary_keyword": "수원 알뜰폰 개통",
-  "reason": "화요일 키워드 트랙. 당일 검색에서 새 출시·사전예약은 없었고 11월 알뜰폰 프로모션(우리WON모바일)이 확인돼 기존 후보 SW45에 적용. 수능 후 수험생 이슈는 11월 19일 이후가 더 적합해 보류. 새 후보 추가 불필요.",
-  "heads_read": {
-   "htglove/htglove.github.io": "77ec46fe01bad0a21afbd31f96ea0df5e95deb82",
-   "suwon-seongji/suwon-seongji.github.io": "18c37f91af5e5bea52e8b8adc67a2e5f8e592fd8"
-  },
-  "existing_posts": {
-   "htglove/htglove.github.io": 10,
-   "suwon-seongji/suwon-seongji.github.io": 5
-  },
-  "evidence": [
-   "수원우체국 누리집(2026-11-10 확인)",
-   "KT엠모바일 유심 구매·개통 가이드·셀프개통·eSIM·FAQ",
-   "U+유모바일 셀프개통·eSIM 안내",
-   "글로벌이코노믹 2026-11-09 우리WON모바일 이벤트(단일 보도)",
-   "모요 운영자 답변 2026-09-16(우체국 준비물·시간 참고, 비공식)"
-  ],
-  "duplicate_review": "본 블로그 10개·수원 5개 글과 비교: 알뜰폰 개통 창구·수원우체국·유심 구매처·셀프개통 시간은 기존 글에 없음. 일요일 번호이동 제한은 주말 글로, 지원금·구매처는 본 블로그 링크로 처리. validate.py 통과(최고 문단 유사도 0.205). 미확인 표시: 수원우체국 알뜰폰 상담 시간(이미지), 동수원·서수원 취급 여부, 우체국 취급 사업자(epost 페이지 열람 불가)."
- },
- {
-  "date": "2026-11-11",
-  "weekday": "수",
-  "track": "seongji",
-  "topic_id": "SW33",
-  "title": "수원 휴대폰 성지 방문 준비물, 신분증 하나로는 부족",
-  "url": "https://suwon-seongji.github.io/guide/suwon-seongji-visit-items/",
-  "primary_keyword": "수원 휴대폰 성지 방문 준비물",
-  "secondary_keyword": "수원 휴대폰 성지 방문",
-  "reason": "수요일 성지 트랙. 남은 seongji 후보 중 SW33은 2026-07-06 시행 개통 본인확인 강화(안면인증·모바일 신분증·당일 초본)라는 공개 자료가 충분하고 두 저장소 어디에도 다룬 적 없음. SW31·SW35는 본 블로그 시세표·번호이동 글과 축이 겹칠 위험, SW34는 피해·분쟁조정 글과 인접, SW01·SW32는 수원 교통 공식 자료 조사가 더 필요해 보류.",
-  "heads_read": {
-   "htglove/htglove.github.io": "0a26807",
-   "suwon-seongji/suwon-seongji.github.io": "63cf896"
-  },
-  "existing_posts": {
-   "htglove/htglove.github.io": 11,
-   "suwon-seongji/suwon-seongji.github.io": 6
-  },
-  "evidence": [
-   "뉴시스 2026-06-30 과기정통부 브리핑 보도",
-   "아이뉴스24 2026-06-30",
-   "데일리안 2026-07-07 매장 르포",
-   "SBS Biz 2026-09-03",
-   "정책브리핑(행정안전부) 2025-02-10 모바일 주민등록증",
-   "아시아경제 2025-06-30 수원 24시간 무인민원발급기",
-   "SK텔레콤 T world 이용계약증명서 FAQ"
-  ],
-  "duplicate_review": "본 블로그 11개·수원 6개 글과 제목·소제목·문단 직접 비교: 개통 본인확인 강화(안면인증·모바일 신분증·당일 초본), 수원 행정복지센터 모바일 주민등록증, 수원 24시간 무인민원발급기, 가족 명의 준비물은 기존 글에 없음. 주말 시간은 SW36 링크, 가입 유형·현금가는 본 블로그 링크로 처리. validate.py 통과(최고 문단 유사도 0.185, 올댓폰 안내 문단은 재작성).",
-  "unverified": "수원시 공식 누리집·공공데이터 무인민원발급기 목록은 이 세션에서 열람 불가(아시아경제 단일 보도 사용). 9월 이후 추가 대체 인증수단 확정 여부 미확인. 통신사 공식 가입 구비서류(미성년·대리) 페이지 미확인이라 매장 확인으로 안내."
- },
- {
-  "date": "2026-11-12",
-  "weekday": "목",
-  "track": "keyword",
-  "topic_id": "SW11",
-  "title": "수원 폐휴대폰 수거, 서랍 속 폰 보내는 세 갈래",
-  "url": "https://suwon-seongji.github.io/guide/suwon-phone-recycling/",
-  "primary_keyword": "수원 폐휴대폰",
-  "secondary_keyword": "수원 폐휴대폰 수거",
-  "reason": "목요일 키워드 트랙. 당일 검색에서 신제품 출시·사전예약 등 새 시의성 이슈는 없었고(요금제 유지기간 종료 알림은 2027년 1분기 검토 단계), 아이폰18·듀오·폴드8 교체 이후 남는 폐휴대폰 처리와 9월 정부 회수 캠페인·우체국 방문수거 연내 도입 계획이 시의성 있음. SW11은 수원시 공식 무상방문수거 안내(2026-07-07 수정)와 영통2동 수거함 사례로 수원 자료 확보. SW50 할부는 본 블로그 성지 뜻 글과 중복, SW10 유실물은 공식 수원역 유실물센터 자료 열람 불가, SW46·SW09는 수원 교육 현행 모집 자료 부족, SW44·SW53은 알뜰폰 글과 인접해 보류.",
-  "heads_read": {
-   "htglove/htglove.github.io": "50339f4",
-   "suwon-seongji/suwon-seongji.github.io": "622606c"
-  },
-  "existing_posts": {
-   "htglove/htglove.github.io": 12,
-   "suwon-seongji/suwon-seongji.github.io": 7
-  },
-  "evidence": [
-   "수원특례시 재활용분리배출(폐가전 무상방문수거) 2026-07-07 수정",
-   "환경보건신문 2026-09-01",
-   "아주경제 2026-09-01",
-   "에너지데일리 2026-09-01",
-   "SBS Biz 2026-09-01",
-   "뉴스Q·정도일보 2024-09-23 영통2동 수거함"
-  ],
-  "duplicate_review": "본 블로그 12개·수원 7개 글과 제목·소제목·문단 직접 비교: 폐휴대폰·나눔폰·소형가전 수거를 다룬 글 없음. 초기화는 3항목으로 짧게 처리. validate.py 통과(최고 문단 유사도 0.491은 운영자 지정 올댓폰 소개 문장 그대로 사용 때문, 그 외 문단은 0.25 미만).",
-  "unverified": "나눔폰 공식 누리집·수원우체국 누리집·모두비움 수거함 목록은 이 세션에서 열람 불가(보도 기준). 우체국 방문수거 실제 시작 여부 미확인. 영통2동 수거함의 휴대폰 수거 여부·현재 운영 여부 미확인으로 전화 확인 안내."
- }
+  {
+    "date": "2026-11-13",
+    "weekday": "금",
+    "track": "seongji (keyword 대체)",
+    "topic_id": "SW32",
+    "title": "수원 휴대폰 성지 공동구매 차이, 이동 시간으로 고르기",
+    "url": "https://suwon-seongji.github.io/guide/suwon-seongji-vs-groupbuy/",
+    "primary_keyword": "수원 휴대폰 성지 공동구매",
+    "secondary_keyword": "수원 휴대폰 성지 공동구매 차이",
+    "reason": "금요일 키워드 트랙. 당일 검색에서 신제품 출시·사전예약·지원금 변화 등 새 시의성 이슈는 찾지 못함(폴드8 지원금 상향·KT 골드번호는 기존 글에서 다룸). 남은 keyword 후보를 조사했으나 수원 공개 자료 부족: SW05 수원페이 기기변경 절차는 수원시·앱 공식 안내에 없음, SW10 수원역·버스 유실물 공식 자료 열람 불가, SW02 수원시 공공와이파이 공식 페이지 열람 오류·최신 자료 2018년, SW09·SW46 수원 교육은 9월 영화동 주민자치회 교육 보도만 확인, SW44·SW49·SW53·SW54·SW47·SW52는 지역명만 바꾼 일반론이 되거나 본 블로그 예정 주제(중고폰·eSIM·보험·키즈폰)와 겹침, SW50은 본 블로그 성지 뜻 글과 중복, SW55는 진행 중 사전예약 없음. 규칙대로 다른 트랙(seongji)으로 대체. SW32는 수원시 철도네트워크 공식 안내(2026-09-03 수정)로 노선·미개통 구간 근거 확보, 본 블로그 구매처 비교와 다른 축(수원 생활권 이동 시간·비용).",
+    "heads_read": {
+      "htglove/htglove.github.io": "af9e357",
+      "suwon-seongji/suwon-seongji.github.io": "aee91c6"
+    },
+    "existing_posts": {
+      "htglove/htglove.github.io": 13,
+      "suwon-seongji/suwon-seongji.github.io": 8
+    },
+    "evidence": [
+      "수원특례시 철도네트워크(2026-09-03 수정)",
+      "경향신문 2026-06-15(기본운임 1,550원)",
+      "경인방송 2026-04-15(The 경기패스 환급률·월 15회 조건)"
+    ],
+    "duplicate_review": "본 블로그 13개·수원 8개 글과 제목·소제목·문단 직접 비교: 수원 생활권 이동 시간·교통비로 방문과 공동구매를 비교한 글 없음. 본 블로그 구매처 비교·번호이동 글은 링크 처리, 개통 시간·준비물은 수원 기존 글 링크로 처리. validate.py 통과(최고 문단 유사도 0.2).",
+    "unverified": "올댓폰 수원 매장 위치·수·가격·배송 기간은 자료 없음으로 쓰지 않음. 경기도 시내버스 요금은 2025년 조정 이후 금액을 공식 자료로 확인하지 못해 수치 생략."
+  }
 ]

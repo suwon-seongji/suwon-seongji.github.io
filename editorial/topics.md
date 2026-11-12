@@ -9,7 +9,7 @@
   - 수원역·영통역·광교중앙역의 실제 노선과 마지막 이동 구간
 - [ ] SW31 수원 휴대폰 성지 시세표 상담 전 확인할 조건 (suwon-seongji-quote-check) — 공식 자료 조사 필요
   - 수원 방문 상담 전에 받아 둘 조건 항목(개통 유형·요금제 유지 기간·부가서비스·현금가/할부원금)을 수원 방문 맥락으로 정리. 본 블로그 성지 뜻·시세표 읽는 법 글과 겹치지 않게 링크로 처리
-- [ ] SW32 수원 휴대폰 성지와 공동구매 중 고르는 기준 (suwon-seongji-vs-groupbuy) — 공식 자료 조사 필요
+- [x] SW32 수원 휴대폰 성지와 공동구매 중 고르는 기준 (suwon-seongji-vs-groupbuy) — 2026-11-13 발행: https://suwon-seongji.github.io/guide/suwon-seongji-vs-groupbuy/
   - 수원 구별 이동 부담·방문 시간과 택배 수령을 비교. 본 블로그 구매처 비교 글과 다른 축(수원 생활권 이동 비용·시간)으로
 - [x] SW33 수원 휴대폰 성지 방문 준비물 챙기기 (suwon-seongji-visit-items) — 2026-11-11 발행: https://suwon-seongji.github.io/guide/suwon-seongji-visit-items/
   - 신분증·기존 폰 백업·결제수단·가족 명의 등 방문 개통 준비물. 통신사 공식 안내로 확인
