@@ -73,7 +73,7 @@
   - 경기지역화폐·수원시 공식 앱 재설치 및 계정 안내; 금융 보안 주의
 - [ ] SW09 수원 스마트폰 교육 신청 경로 (suwon-digital-learning) — 공식 자료 조사 필요
   - 수원시·디지털배움터의 현재 모집과 실제 교육장 정보
-- [ ] SW10 수원에서 잃어버린 폰 찾는 접수처 (suwon-lost-phone) — 공식 자료 조사 필요
+- [x] SW10 수원에서 잃어버린 폰 찾는 접수처 (suwon-lost-phone) — 2026-11-15 발행: https://suwon-seongji.github.io/guide/suwon-lost-phone/
   - 수원 버스·역 유실물 공식 접수 경로 비교; 개인 사례 금지
 - [x] SW11 수원 폐휴대폰 수거처 확인 (suwon-phone-recycling) — 2026-11-12 발행
   - 수원시·수거기관의 현재 접수 장소와 수거 대상 확인; 초기화 일반론 금지

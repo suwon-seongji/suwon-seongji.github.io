@@ -338,9 +338,9 @@
     "title": "수원에서 잃어버린 폰 찾는 접수처",
     "slug": "suwon-lost-phone",
     "requirement": "수원 버스·역 유실물 공식 접수 경로 비교; 개인 사례 금지",
-    "status": "research",
-    "published_url": null,
-    "published_date": null,
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-lost-phone/",
+    "published_date": "2026-11-15",
     "track": "keyword"
   },
   {
