@@ -67,7 +67,7 @@
   - 통신사 분실·파손 보험 공식 약관 비교, 수원 수리 연계
 - [ ] SW55 수원 휴대폰 사전예약 혜택 확인 (suwon-preorder) — 공식 자료 조사 필요
   - 발행 시점 진행 중인 신제품 사전예약 공식 정보가 있을 때만
-- [ ] SW02 수원 공공와이파이 위치·접속 방식 확인 (suwon-public-wifi) — 공식 자료 조사 필요
+- [x] SW02 수원 공공와이파이 위치·접속 방식 확인 (suwon-public-wifi) — 2026-11-16 발행: https://suwon-seongji.github.io/guide/suwon-public-wifi/
   - 수원시 공개 와이파이 위치 자료와 운영기관 접속 안내
 - [ ] SW05 수원페이 휴대폰 교체 전 확인 항목 (suwon-pay-device-change) — 공식 자료 조사 필요
   - 경기지역화폐·수원시 공식 앱 재설치 및 계정 안내; 금융 보안 주의

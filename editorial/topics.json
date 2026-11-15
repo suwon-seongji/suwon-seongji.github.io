@@ -308,9 +308,9 @@
     "title": "수원 공공와이파이 위치·접속 방식 확인",
     "slug": "suwon-public-wifi",
     "requirement": "수원시 공개 와이파이 위치 자료와 운영기관 접속 안내",
-    "status": "research",
-    "published_url": null,
-    "published_date": null,
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-public-wifi/",
+    "published_date": "2026-11-16",
     "track": "keyword"
   },
   {
