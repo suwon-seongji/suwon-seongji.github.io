@@ -512,5 +512,15 @@
     "published_url": null,
     "published_date": null,
     "track": "keyword"
+  },
+  {
+    "id": "SW56",
+    "track": "keyword",
+    "title": "수원 갤럭시 A18 가격 따져 사기",
+    "slug": "suwon-galaxy-a18",
+    "requirement": "2026-10-30 국내 출시 갤럭시 A18 LTE 출고가·판매처 공식 보도 확인. 저가폰에서 요금제 유지 조건 비용 비중을 계산 공식으로, 수원 실물 확인과 올댓폰 두 경로. SW42(S26 플래그십)와 다른 질문",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-galaxy-a18/",
+    "published_date": "2026-11-17"
   }
 ]

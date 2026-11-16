@@ -67,6 +67,8 @@
   - 통신사 분실·파손 보험 공식 약관 비교, 수원 수리 연계
 - [ ] SW55 수원 휴대폰 사전예약 혜택 확인 (suwon-preorder) — 공식 자료 조사 필요
   - 발행 시점 진행 중인 신제품 사전예약 공식 정보가 있을 때만
+- [x] SW56 수원 갤럭시 A18 가격 따져 사기 (suwon-galaxy-a18) — 2026-11-17 발행: https://suwon-seongji.github.io/guide/suwon-galaxy-a18/
+  - 2026-10-30 출시 갤럭시 A18 LTE 출고가·판매처 공식 보도 확인, 저가폰 요금제 조건 비용 계산, 수원 실물 확인과 두 경로
 - [x] SW02 수원 공공와이파이 위치·접속 방식 확인 (suwon-public-wifi) — 2026-11-16 발행: https://suwon-seongji.github.io/guide/suwon-public-wifi/
   - 수원시 공개 와이파이 위치 자료와 운영기관 접속 안내
 - [ ] SW05 수원페이 휴대폰 교체 전 확인 항목 (suwon-pay-device-change) — 공식 자료 조사 필요
