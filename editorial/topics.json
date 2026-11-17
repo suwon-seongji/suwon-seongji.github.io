@@ -522,5 +522,15 @@
     "status": "published",
     "published_url": "https://suwon-seongji.github.io/guide/suwon-galaxy-a18/",
     "published_date": "2026-11-17"
+  },
+  {
+    "id": "SW57",
+    "track": "keyword",
+    "title": "수원 수험생 휴대폰 개통 준비",
+    "slug": "suwon-student-phone",
+    "requirement": "2027학년도 수능(2026-11-19) 직후 수험생 폰 교체 시점. 만 19세 미만 법정대리인 서류(통신사 공식 안내), 부모 미동행 시 본인서명사실확인서·인감 평일 발급 일정, 통신사·제조사 수험생 혜택(보도), 작년 수능 시즌 지원금 흐름, 수원 두 경로. 본 블로그 연말 지원금 글과 다른 질문(개통 서류·일정)",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-student-phone/",
+    "published_date": "2026-11-18"
   }
 ]

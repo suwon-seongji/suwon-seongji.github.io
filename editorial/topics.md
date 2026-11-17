@@ -69,6 +69,8 @@
   - 발행 시점 진행 중인 신제품 사전예약 공식 정보가 있을 때만
 - [x] SW56 수원 갤럭시 A18 가격 따져 사기 (suwon-galaxy-a18) — 2026-11-17 발행: https://suwon-seongji.github.io/guide/suwon-galaxy-a18/
   - 2026-10-30 출시 갤럭시 A18 LTE 출고가·판매처 공식 보도 확인, 저가폰 요금제 조건 비용 계산, 수원 실물 확인과 두 경로
+- [x] SW57 수원 수험생 휴대폰 개통 준비 (suwon-student-phone) — 2026-11-18 발행: https://suwon-seongji.github.io/guide/suwon-student-phone/
+  - 2027학년도 수능 직후 교체 시점, 만 19세 미만 법정대리인 서류(통신사 공식 안내)와 부모 미동행 시 평일 발급 일정, 수험생 혜택·작년 지원금 흐름, 수원 두 경로
 - [x] SW02 수원 공공와이파이 위치·접속 방식 확인 (suwon-public-wifi) — 2026-11-16 발행: https://suwon-seongji.github.io/guide/suwon-public-wifi/
   - 수원시 공개 와이파이 위치 자료와 운영기관 접속 안내
 - [ ] SW05 수원페이 휴대폰 교체 전 확인 항목 (suwon-pay-device-change) — 공식 자료 조사 필요
