@@ -73,6 +73,8 @@
   - 2027학년도 수능 직후 교체 시점, 만 19세 미만 법정대리인 서류(통신사 공식 안내)와 부모 미동행 시 평일 발급 일정, 수험생 혜택·작년 지원금 흐름, 수원 두 경로
 - [x] SW58 수원 샤오미 18 프로 맥스 사전예약 전 AS부터 (suwon-xiaomi-18-pro-max) — 2026-11-19 발행: https://suwon-seongji.github.io/guide/suwon-xiaomi-18-pro-max/
   - 11-17 사전예약 시작한 자급제 플래그십의 가격·보증 혜택(공식 출시 페이지), 수원 큐에이드 동수원점 공식 서비스센터 운영시간, 자급제 선택약정 2년 총액, 통신사 판매 기종 비교 시 올댓폰 두 경로
+- [x] SW59 수원 휴대폰 블랙프라이데이 할인, 추첨 몫 빼고 계산 (suwon-black-friday-phone) — 2026-11-20 발행: https://suwon-seongji.github.io/guide/suwon-black-friday-phone/
+  - T 다이렉트샵 갤럭시 블랙프라이데이 기획전(응모 10/30~11/30)의 지원금·쿠폰·추첨 이용권 구분, 꽝 기준 확정가 표, 이용권 사용 조건, 요금 차액 총액 공식, 11/30 마감 주말 일정·반납 보상, 수원 두 경로
 - [x] SW02 수원 공공와이파이 위치·접속 방식 확인 (suwon-public-wifi) — 2026-11-16 발행: https://suwon-seongji.github.io/guide/suwon-public-wifi/
   - 수원시 공개 와이파이 위치 자료와 운영기관 접속 안내
 - [ ] SW05 수원페이 휴대폰 교체 전 확인 항목 (suwon-pay-device-change) — 공식 자료 조사 필요
