@@ -552,5 +552,15 @@
     "status": "published",
     "published_url": "https://suwon-seongji.github.io/guide/suwon-black-friday-phone/",
     "published_date": "2026-11-20"
+  },
+  {
+    "id": "SW60",
+    "track": "seongji",
+    "title": "수원 휴대폰 성지 개통 철회, 14일 안에 할 일",
+    "slug": "suwon-seongji-activation-cancel",
+    "requirement": "수원 매장 개통 뒤 되돌리려 할 때 사유별(통화품질·갤럭시 불량·아이폰 불량·단순 변심) 기한과 서류를 통신사 공식 온라인샵 안내와 보도로 확인, 14일째 날짜 공식, 수원 서비스센터 일정은 수리 글 링크, 박스·일련번호 보관, 상황별 정리, 올댓폰 두 경로. 본 블로그 피해 유형·분쟁조정 글은 링크 처리, SW34 계약서 확인과 다른 질문(철회 기한·서류)",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-seongji-activation-cancel/",
+    "published_date": "2026-11-21"
   }
 ]

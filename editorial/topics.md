@@ -19,6 +19,8 @@
   - 번호이동 방문 상담 시 확인할 절차·시간대·해지 위약금 확인 경로. 공식 자료 기준
 - [x] SW36 수원 휴대폰 성지 주말 방문 전 확인 (suwon-seongji-weekend-visit) — 2026-11-07 발행: https://suwon-seongji.github.io/guide/suwon-seongji-weekend-visit/
   - 주말·공휴일 개통 가능 여부, 전산 시간 등 공식 안내 확인. 매장별 영업시간은 자료 없으면 단정 금지
+- [x] SW60 수원 휴대폰 성지 개통 철회, 14일 안에 할 일 (suwon-seongji-activation-cancel) — 2026-11-21 발행: https://suwon-seongji.github.io/guide/suwon-seongji-activation-cancel/
+  - 통화품질 불량 14일·갤럭시 불량판정서·아이폰 반품 9일/교환 30일·단순 변심 7일 논란을 사유별 표로, 14일째 날짜 공식, 박스·일련번호 보관, 상황별 정리, 수원 두 경로
 - [ ] SW21 수원 인증 매장 생활권별 확인 자료 (suwon-certified-areas) — 현지 자료 필요
   - 운영자가 제공한 실제 인증 매장 수·동네·확인일 필요
 - [ ] SW22 수원 인증 시세 같은 모델 비교 (suwon-same-model-price) — 현지 자료 필요
