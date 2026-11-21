@@ -79,8 +79,8 @@
   - T 다이렉트샵 갤럭시 블랙프라이데이 기획전(응모 10/30~11/30)의 지원금·쿠폰·추첨 이용권 구분, 꽝 기준 확정가 표, 이용권 사용 조건, 요금 차액 총액 공식, 11/30 마감 주말 일정·반납 보상, 수원 두 경로
 - [x] SW02 수원 공공와이파이 위치·접속 방식 확인 (suwon-public-wifi) — 2026-11-16 발행: https://suwon-seongji.github.io/guide/suwon-public-wifi/
   - 수원시 공개 와이파이 위치 자료와 운영기관 접속 안내
-- [ ] SW05 수원페이 휴대폰 교체 전 확인 항목 (suwon-pay-device-change) — 공식 자료 조사 필요
-  - 경기지역화폐·수원시 공식 앱 재설치 및 계정 안내; 금융 보안 주의
+- [x] SW05 수원 휴대폰 교체 앱, 수원페이부터 옮기는 순서 (suwon-pay-device-change) — 2026-11-22 발행: https://suwon-seongji.github.io/guide/suwon-pay-device-change/
+  - 경기지역화폐(수원페이) 잔액·평일 고객센터·환불 60%, 새빛톡톡 마일리지 1만 점 수원페이 전환, 경기버스정보 즐겨찾기 저장·승하차벨 권한, 옛 폰 초기화 시점 공식, 상황별 정리, 수원 두 경로. SW03·SW06은 이 글에서 일부 다뤘으므로 쓸 때 기기변경 외 다른 질문으로
 - [ ] SW09 수원 스마트폰 교육 신청 경로 (suwon-digital-learning) — 공식 자료 조사 필요
   - 수원시·디지털배움터의 현재 모집과 실제 교육장 정보
 - [x] SW10 수원에서 잃어버린 폰 찾는 접수처 (suwon-lost-phone) — 2026-11-15 발행: https://suwon-seongji.github.io/guide/suwon-lost-phone/

@@ -315,12 +315,12 @@
   },
   {
     "id": "SW05",
-    "title": "수원페이 휴대폰 교체 전 확인 항목",
+    "title": "수원 휴대폰 교체 앱, 수원페이부터 옮기는 순서",
     "slug": "suwon-pay-device-change",
-    "requirement": "경기지역화폐·수원시 공식 앱 재설치 및 계정 안내; 금융 보안 주의",
-    "status": "research",
-    "published_url": null,
-    "published_date": null,
+    "requirement": "경기지역화폐(수원페이) 잔액·고객센터 평일 운영·환불 기준, 새빛톡톡 마일리지 수원페이 전환, 경기버스정보 즐겨찾기 저장·승하차벨 권한을 폰 교체 순서로 정리(수원시 안내·앱 스토어 공식 정보). 기기 변경 공식 절차는 세 앱 모두 확인 못 해 옛 폰 기록·대조 방식으로 안내",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-pay-device-change/",
+    "published_date": "2026-11-22",
     "track": "keyword"
   },
   {
