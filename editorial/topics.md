@@ -77,6 +77,8 @@
   - 11-17 사전예약 시작한 자급제 플래그십의 가격·보증 혜택(공식 출시 페이지), 수원 큐에이드 동수원점 공식 서비스센터 운영시간, 자급제 선택약정 2년 총액, 통신사 판매 기종 비교 시 올댓폰 두 경로
 - [x] SW59 수원 휴대폰 블랙프라이데이 할인, 추첨 몫 빼고 계산 (suwon-black-friday-phone) — 2026-11-20 발행: https://suwon-seongji.github.io/guide/suwon-black-friday-phone/
   - T 다이렉트샵 갤럭시 블랙프라이데이 기획전(응모 10/30~11/30)의 지원금·쿠폰·추첨 이용권 구분, 꽝 기준 확정가 표, 이용권 사용 조건, 요금 차액 총액 공식, 11/30 마감 주말 일정·반납 보상, 수원 두 경로
+- [x] SW61 수원 휴대폰 배터리 교체, 새 폰 사기 전 점검 (suwon-phone-battery) — 2026-11-23 발행: https://suwon-seongji.github.io/guide/suwon-phone-battery/
+  - 겨울철 꺼짐 공식 설명, 갤럭시 삼성 멤버스 폰 진단·아이폰 배터리 성능 상태, 애플케어 80% 기준, TUVA 수원 광교 운영·예약제, 삼성 센터는 수리 글 링크, 교체 vs 새 폰 월 비용 공식, 상황별 정리, 수원 두 경로
 - [x] SW02 수원 공공와이파이 위치·접속 방식 확인 (suwon-public-wifi) — 2026-11-16 발행: https://suwon-seongji.github.io/guide/suwon-public-wifi/
   - 수원시 공개 와이파이 위치 자료와 운영기관 접속 안내
 - [x] SW05 수원 휴대폰 교체 앱, 수원페이부터 옮기는 순서 (suwon-pay-device-change) — 2026-11-22 발행: https://suwon-seongji.github.io/guide/suwon-pay-device-change/

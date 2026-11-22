@@ -562,5 +562,15 @@
     "status": "published",
     "published_url": "https://suwon-seongji.github.io/guide/suwon-seongji-activation-cancel/",
     "published_date": "2026-11-21"
+  },
+  {
+    "id": "SW61",
+    "track": "keyword",
+    "title": "수원 휴대폰 배터리 교체, 새 폰 사기 전 점검",
+    "slug": "suwon-phone-battery",
+    "requirement": "겨울철 꺼짐 공식 설명(삼성·애플), 갤럭시 삼성 멤버스 폰 진단·아이폰 배터리 성능 상태 경로, 애플케어 80% 기준, 수원 TUVA 광교 운영시간·예약제(공식 페이지), 삼성 센터는 수리 글 링크, 교체 vs 새 폰 월 비용 공식, 상황별 정리, 수원 두 경로. SW48 수리 창구 글과 다른 질문(배터리 교체 판단)",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-phone-battery/",
+    "published_date": "2026-11-23"
   }
 ]
