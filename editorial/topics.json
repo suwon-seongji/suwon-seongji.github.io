@@ -425,12 +425,12 @@
   },
   {
     "id": "SW14",
-    "title": "수원 재난·생활 알림 채널 구분",
+    "title": "수원 재난문자 신청, 새 폰에서 놓치지 않는 법",
     "slug": "suwon-local-alerts",
-    "requirement": "수원시가 실제 운영하는 알림 서비스와 수신 설정 확인",
-    "status": "research",
-    "published_url": null,
-    "published_date": null,
+    "requirement": "수원시 시민 맞춤형 재난문자(구·동·시간대·정보유형 선택, 수원 거주·직장인), 위급·긴급·안전안내 등급과 끌 수 있는 범위, 갤럭시·아이폰 설정 위치, 3G·직구폰 안전디딤돌, 폰 바꾼 날 점검 순서, 수원 두 경로",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-local-alerts/",
+    "published_date": "2026-11-24",
     "track": "reserve"
   },
   {
