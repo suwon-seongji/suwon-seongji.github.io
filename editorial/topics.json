@@ -572,5 +572,15 @@
     "status": "published",
     "published_url": "https://suwon-seongji.github.io/guide/suwon-phone-battery/",
     "published_date": "2026-11-23"
+  },
+  {
+    "id": "SW62",
+    "track": "seongji",
+    "title": "수원 휴대폰 성지 사전승낙서, 서명 전 벽부터 보기",
+    "slug": "suwon-seongji-preapproval",
+    "requirement": "단통법 폐지 뒤에도 전기통신사업법으로 유지된 판매점 승낙 표시 의무(2025-07 보도·2025-04 방통위 보도자료), 승낙서 기재 항목(방통위 2021), 2025-09-04 통합 인증마크·철회 공지문(뉴시스 2025-08), 승낙서·간판·계약서 판매점 정보 대조 한 줄 기준, 수원시 행정정보종합센터 소비자보호 창구, 상황별 정리, 수원 두 경로. 본 블로그 피해 유형(이동개통 신고)·분쟁조정 글은 링크 처리, SW34 계약서 항목 점검과 다른 질문(판매 주체 확인)",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-seongji-preapproval/",
+    "published_date": "2026-11-25"
   }
 ]
