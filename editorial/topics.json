@@ -365,12 +365,12 @@
   },
   {
     "id": "SW04",
-    "title": "수원시도서관 모바일회원증 다시 쓰기",
+    "title": "수원 도서관 앱 모바일회원증, 새 폰에서 책나루까지 다시 켜기",
     "slug": "suwon-library-mobile-card",
-    "requirement": "수원시도서관 공식 모바일 회원증·앱 안내",
-    "status": "research",
-    "published_url": null,
-    "published_date": null,
+    "requirement": "수원시도서관 앱(스토어 '수원 도서관' 검색)·모바일 웹 모바일회원증 정회원 조건, 통합회원 로그인과 대출비밀번호, 개인정보 재동의, 책나루 무인예약대출 5개 역(1인 2권·14일, 주말 투입 없음, 약 1일 보관, SMS) 문자 번호 확인, 수령일 계산 공식, 상황별 정리, 수원 두 경로",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-library-mobile-card/",
+    "published_date": "2026-11-26",
     "track": "reserve"
   },
   {
