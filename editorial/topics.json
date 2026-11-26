@@ -445,12 +445,12 @@
   },
   {
     "id": "SW16",
-    "title": "수원 관광 모바일 안내 서비스 고르기",
-    "slug": "suwon-tour-mobile-guide",
-    "requirement": "수원 관광 공식 모바일 지도·안내 지원 여부; 실제 수원 콘텐츠 확인",
-    "status": "research",
-    "published_url": null,
-    "published_date": null,
+    "title": "수원 관광 앱 터치수원, 화성 가기 전 폰부터 점검",
+    "slug": "suwon-touch-suwon-app",
+    "requirement": "수원 관광 공식 모바일 지도·안내 지원 여부; 실제 수원 콘텐츠 확인 → 발행: 수원시 공식 터치수원 안내(기능·XR버스 1795행 예약·짐 보관·1330 챗봇), 앱스토어 iOS 16.0 이상·221.6MB·위치 권한, 한국관광공사 스마트관광도시(스탬프 7개·짐 보관 무료), 화성어차 요금·운행시간·재탑승 불가, 가족 요금 공식, 상황별 정리, 수원 두 경로",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-touch-suwon-app/",
+    "published_date": "2026-11-27",
     "track": "reserve"
   },
   {
