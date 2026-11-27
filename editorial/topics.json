@@ -582,5 +582,15 @@
     "status": "published",
     "published_url": "https://suwon-seongji.github.io/guide/suwon-seongji-preapproval/",
     "published_date": "2026-11-25"
+  },
+  {
+    "id": "SW63",
+    "track": "seongji",
+    "title": "수원 휴대폰 성지 결제 방법, 이체 전에 물을 것",
+    "slug": "suwon-seongji-payment",
+    "requirement": "결제 수단 네 가지(계좌이체 현금완납·카드·통신사 할부·수원페이)를 표로, 현금가 카드 결제 시 여전법 제19조 카드사 안내와 2026-10 개정안 발의(머니투데이), 이체 시점·예금주와 사전승낙서 대조, 수원페이 가맹점 기준(수원시 소재·연매출 12억 이하·대규모점포·인터넷몰 제외)과 가맹점 찾기, 나눠 낼 때 계약서 할부원금 공식, 상황별 정리, 수원 두 경로. 할부수수료 계산은 본 블로그 성지 뜻 글, 제휴카드는 피해 유형 글 링크",
+    "status": "published",
+    "published_url": "https://suwon-seongji.github.io/guide/suwon-seongji-payment/",
+    "published_date": "2026-11-28"
   }
 ]
